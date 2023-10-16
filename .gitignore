@@ -15,6 +15,10 @@
 # database
 /db.js
 
+# Archivos generador por IDEs o editores de texto
+/.vscode
+/.idea
+
 # production
 /build
 
